@@ -1,0 +1,80 @@
+{
+    "current_list_id": "default",
+    "lists": {
+        "default": {
+            "name": "Allgemein",
+            "items": [
+                {
+                    "name": "hund",
+                    "priority": "medium",
+                    "is_completed": true
+                },
+                {
+                    "name": "katze",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "ba",
+                    "priority": "medium",
+                    "is_completed": true
+                },
+                {
+                    "name": "dfre",
+                    "priority": "medium",
+                    "is_completed": true
+                },
+                {
+                    "name": "fverv",
+                    "priority": "medium",
+                    "is_completed": true
+                },
+                {
+                    "name": "vev",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "micl",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "wf",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "fwfve",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "cvfe",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "cve",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "vve",
+                    "priority": "medium",
+                    "is_completed": false
+                }
+            ]
+        },
+        "5feed0bd": {
+            "name": "edeka",
+            "items": [
+                {
+                    "name": "gemüse",
+                    "priority": "medium",
+                    "is_completed": false
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "settings": {
+        "language": "de",
+        "mode": "todo",
+        "theme_mode": "light"
+    },
+    "current_list_id": "e4fb2930",
+    "lists": {
+        "default": {
+            "name": "Allgemein",
+            "items": []
+        },
+        "e4fb2930": {
+            "name": "llidl",
+            "items": [
+                {
+                    "name": "antrag stellen",
+                    "priority": "medium",
+                    "is_completed": false
+                },
+                {
+                    "name": "hund füttern",
+                    "priority": "urgent",
+                    "is_completed": true
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "settings": {
+        "language": "de",
+        "mode": "shopping",
+        "theme_mode": "dark"
+    },
+    "tasks": [
+        {
+            "name": "hund füttern",
+            "priority": "urgent",
+            "is_completed": false
+        },
+        {
+            "name": "123",
+            "priority": "medium",
+            "is_completed": false
+        }
+    ]
+}

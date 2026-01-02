@@ -1,0 +1,1362 @@
+[?25l[32m( ●    )[0m [1;34mInitializing ipa [0m
+[1;34mbuild...[0m[2K[1A[2K[32m(    ● )[0m [1;34mInitializing ipa [0m
+[1;34mbuild...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mInitializing ipa [0m
+[1;34mbuild...[0m[2K[1A[2K[2;36m[13:58:54][0m[2;36m [0m[1;32mFlutter [0m[1;36m3.29[0m[1;32m.[0m[1;36m2[0m[1;32m     [0m
+[2;36m           [0m[1;32minstalled ✅       [0m
+[32m(  ●   )[0m [1;34mInstalling Flutter [0m
+[1;34m3.29.2...[0m[2K[1A[2K[1;33m╭────────────────────────────╮[0m
+[1;33m│[0m[1;33m [0m[1;33mThis build will generate [0m[1;33m [0m[1;33m [0m[1;33m│[0m
+[1;33m│[0m[1;33m [0m[1;33man .xcarchive (Xcode [0m[1;33m     [0m[1;33m [0m[1;33m│[0m
+[1;33m│[0m[1;33m [0m[1;33mArchive). To produce an [0m[1;33m  [0m[1;33m [0m[1;33m│[0m
+[1;33m│[0m[1;33m [0m[1;33m.ipa (iOS App Package), [0m[1;33m  [0m[1;33m [0m[1;33m│[0m
+[1;33m│[0m[1;33m [0m[1;33mplease specify a [0m[1;33m         [0m[1;33m [0m[1;33m│[0m
+[1;33m│[0m[1;33m [0m[1;33mProvisioning Profile.[0m[1;33m     [0m[1;33m [0m[1;33m│[0m
+[1;33m╰────────────────────────────╯[0m
+[32m(  ●   )[0m [1;34mInstalling Flutter [0m
+[1;34m3.29.2...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(●     )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m( ●    )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[2;36m[14:00:35][0m[2;36m [0m[1;32mPackaged Python app[0m
+[2;36m           [0m[1;32m✅                 [0m
+[32m(    ● )[0m [1;34mPackaging Python [0m
+[1;34mapp...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(●     )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(    ● )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m( ●    )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[2;36m[14:04:25][0m[2;36m [0m[1;32mBuilt [0m[1;36m.ipa bundle [0m[1;32m [0m
+[2;36m           [0m[1;36mfor iOS[0m[1;32m ✅         [0m
+[32m(  ●   )[0m [1;34mBuilding [0m[1;36m.ipa bundle [0m
+[1;36mfor iOS[0m[1;34m...[0m[2K[1A[2K[32m(     ●)[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(     ●)[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(●     )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(   ●  )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(    ● )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m(  ●   )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[32m( ●    )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K[2;36m[14:04:34][0m[2;36m [0m[1;32mCopied build to    [0m
+[2;36m           [0m[1;36mbuild/ipa[0m[1;32m directory[0m
+[2;36m           [0m[1;32m✅                 [0m
+[32m(   ●  )[0m [1;34mCopying build to [0m
+[1;36mbuild/ipa[0m[1;34m directory...[0m[2K[1A[2K╭────────────────────────────╮
+│ Successfully built your    │
+│ [36m.ipa bundle for iOS[0m! 🥳    │
+│ Find it in [36mbuild/ipa[0m       │
+│ directory. 📁              │
+╰────────────────────────────╯[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K╭────────────────────────────╮
+│ Successfully built your    │
+│ [36m.ipa bundle for iOS[0m! 🥳    │
+│ Find it in [36mbuild/ipa[0m       │
+│ directory. 📁              │
+╰────────────────────────────╯
+[?25h
