@@ -78,4 +78,4 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for a detailed component diagram.
 
 ## License 📄
 
-MIT
+GNU Affero General Public License v3.0 (AGPLv3)
