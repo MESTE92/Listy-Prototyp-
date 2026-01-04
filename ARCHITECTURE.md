@@ -8,24 +8,24 @@ Listy is a Flet-based Python application that combines Todo List and Shopping Li
 graph TD
     User([User])
     
-    subgraph UI Layer
+    subgraph "UI Layer"
         Main[main.py: App Entry]
         TodoView[views/todo_view.py: Task Management UI]
         Chat[Chat Dialog: AI Interface]
     end
     
-    subgraph Logic Layer
+    subgraph "Logic Layer"
         AI[utils/ai_assistant.py: AI Logic]
         Voice[utils/voice.py: Speech Recognition]
         I18n[utils/translations.py: Language Manager]
     end
     
-    subgraph Data Layer
+    subgraph "Data Layer"
         DataManager[storage/data_manager.py: State Store]
         ClientStorage[(Flet ClientStorage)]
     end
     
-    subgraph External Services
+    subgraph "External Services"
         Gemini[Google Gemini API]
         OpenRouter[OpenRouter / DeepSeek]
         OpenAI[OpenAI / OpenAI-Like]
@@ -40,12 +40,13 @@ graph TD
     Chat --> AI
     Chat --> Voice
     
-    AI --> DataManager : Read Context / Add Tasks
+    AI -->|"Read Context / Add Tasks"| DataManager
     AI --> Gemini
     AI --> OpenRouter
     AI --> OpenAI
-    
-    DataManager --> ClientStorage : Persist Data
+
+
+    DataManager -->|"Persist Data"| ClientStorage
 ```
 
 ## Directory Structure
